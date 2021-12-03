@@ -1,2 +1,2 @@
-# learning-yii
-playing around with yii
+# Learning Yii 1.1
+playing around with yii (vesion 1.1)
